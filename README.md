@@ -97,7 +97,7 @@ Amazon's regional sales teams lacked a clear, data-driven understanding of reven
 - Choropleth map showing revenue by state with zoom and tooltip features.
 
 > 📌 Screenshot:
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](background/page_2.png)
 
 ---
 
