@@ -98,6 +98,8 @@ Amazon's regional sales teams lacked a clear, data-driven understanding of reven
 
 > 📌 Screenshot:
 ![Dashboard Preview](background/page_2.png)
+> 📌 Screenshot:
+![Dashboard Preview].(background/page_3.png)
 
 ---
 
