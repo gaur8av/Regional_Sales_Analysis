@@ -1,4 +1,4 @@
-# 📊 Amazon Regional Sales Analysis (2015–2019)
+# 📊 Amazon Regional Sales Analysis 
 
 A complete end-to-end **Exploratory Data Analysis (EDA)** and **Power BI Dashboard** project aimed at uncovering trends and profitability drivers from Amazon's regional sales data across the U.S. Spanning five years of historical records, this analysis provides actionable business insights and supports strategic decision-making.
 
